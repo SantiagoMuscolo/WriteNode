@@ -1,0 +1,7 @@
+export const REACT_APP_KEY= "AIzaSyCEtArmZUSNlTl4EfclK8GU1K55RPC08IQ"
+export const REACT_APP_DOMAIN= "writenode-c21b4.firebaseapp.com"
+export const REACT_APP_ID= "writenode-c21b4"
+export const REACT_APP_STORAGE_BUCKET= "writenode-c21b4.appspot.com"
+export const REACT_APP_MESSAGE_SENDER= "94757411724"
+export const REACT_APP_APP_ID= "1:94757411724:web:a4e3ebd0bf0fe47cae54a9"
+export const REACT_APP_MEASUREMENT_ID= "G-VHFH2FQTEN"
